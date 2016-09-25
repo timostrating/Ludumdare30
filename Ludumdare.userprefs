@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Bossteleporter.cs">
+    <Files>
+      <File FileName="Assets\scripts\DoodTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\EnemyEen.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\EnemyMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\EnemyTwee.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\FollowPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PlayerControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\SpaceToStart.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Bossteleporter.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
